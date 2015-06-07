@@ -1,7 +1,7 @@
 version 1.0
 add a Track
 add Track
-add a New Track
+add New Track
 i am dev branch
 creating a new branch is quikc & simple.
 creating a new branch is quick AND simpe
